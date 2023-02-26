@@ -24,15 +24,33 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+img{
+  width:250px;
+}
+.product-container{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:1rem;
+
+  
+}
+.card-total{
+ display:flex;
+ flex-direction:column;
+ justify-content:center;
+ align-items:center;
+}
+.total-container{
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.counter{
+  display:flex;
+  justify-content:center;
+  /* align-items:center; */
+  gap:1rem
 }
+/* .minus,.plus {
+  color:red
+} */
