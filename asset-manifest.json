@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/checkout-page-react/static/css/main.591be56a.css",
+    "main.js": "/checkout-page-react/static/js/main.5c741672.js",
+    "index.html": "/checkout-page-react/index.html",
+    "main.591be56a.css.map": "/checkout-page-react/static/css/main.591be56a.css.map",
+    "main.5c741672.js.map": "/checkout-page-react/static/js/main.5c741672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.591be56a.css",
+    "static/js/main.5c741672.js"
+  ]
+}
